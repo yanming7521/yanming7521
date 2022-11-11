@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanming7521)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **yanming7521/yanming7521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
