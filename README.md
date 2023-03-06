@@ -8,4 +8,4 @@
 <p align="center"><h5>表现：</h5></p>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yanming7521&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=synthwave&layout=default&hide_border=true" alt="Anurag's github stats" />
 <br/>
-  <p><h6>慵懒工作，热情生活!</h6></p>
+  <p><h6>慵懒工作，热情生活 !</h6></p>
